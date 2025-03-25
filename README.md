@@ -3,13 +3,13 @@
 
 En este repositorio iré alojando mini-experimentos, mini-proyectos o mini-experiencias en relación a la creación de videojuegos con Godot.
 
-Cada carpeta que contiene un archivo `project.godot` es un proyecto de demostración diseñado para usarse con Godot Engine (https://godotengine.org), el motor de juegos 2D y 3D de código abierto.
+Cada carpeta que contiene un archivo `project.godot` es un proyecto de demostración diseñado para usarse con Godot Engine, el motor de juegos 2D y 3D de código abierto.
 
 ## Importar todas las demos
 
 Para importar todas las demos a la vez en el gestor de proyectos:
 
-- Clona este repositorio o [descarga un archivo ZIP] (https://github.com/godotengine/godot-demo-projects/archive/master.zip).
+- Clona este repositorio o [descarga un archivo ZIP].
 - Si has descargado un archivo ZIP, extráelo.
 - Abre el gestor de proyectos Godot y haz clic en el botón **Escanear** a la derecha.
 - Selecciona la ruta de la carpeta que contiene todas las demos.
@@ -28,7 +28,7 @@ Godot version 3.2.2:
 1. [Roguelike]
 1. [Star shooter]
 1. [Tower Defense]
-2. [Game Rpg]() (tsnc principal Corrupta)
+2. [Game Rpg] (tsnc principal Corrupta)
 3. [V1 y V2 de ejercicios experimentales]
  
 
